@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Urvi Pandey</h1>
 <h3 align="center">C | C++ | Cybersecurity Student</h3>
-<p align="center"><img src="https://i.ibb.co/60d4ydj9/Banner-urvi.jpg"  alt="Urvi-Pandey.student.cybersecurity" border="0"></p>
+<p align="center"><img src="https://i.postimg.cc/Qtxcmxdw/Banner-urvi.jpg"  alt="Urvi-Pandey.student.cybersecurity" border="0"></p>
 <h3>About</h3>
 <p>I am an undergraduate student in Cybersecurity from Indore, India. I’m passionate about security engineering, ethical hacking, and all things cyber. My long term goal is to apply my skills in defence or national intelligence to contribute to my country’s security.</p>
 
